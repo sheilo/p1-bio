@@ -1,5 +1,17 @@
 /* Your Website Styles */
+h1 {
+	color: #C2F0B3;
+	font-family: 'VT323', sans-serif;
+	background: red;
+	width: 300px;
+	padding: 10px;
+	border: 10px solid black;
+	margin: 100px;
+}
 
+body {
+	background: url("../img/bg.png");
+}
 
 /* Show Grid */
 .showgrid {
