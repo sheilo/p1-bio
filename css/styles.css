@@ -1,7 +1,7 @@
 /* Your Website Styles */
 h1 {
 	color: #C2F0B3;
-	font-family: 'VT323', sans-serif;
+	font-family: 'Russo One', sans-serif;
 	background: red;
 	width: 300px;
 	padding: 10px;
@@ -11,6 +11,10 @@ h1 {
 
 body {
 	background: url("../img/bg.png")
+}
+
+p {
+	font-family: 'Play', sans-serif;
 }
 
 /* Show Grid */
