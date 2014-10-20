@@ -2,11 +2,18 @@
 h1 {
 	color: #C2F0B3;
 	font-family: 'Russo One', sans-serif;
-	background: red;
 	width: 300px;
 	padding: 10px;
-	border: 10px solid black;
+	border: 10px;
 	margin: 10px;
+}
+
+h2 {
+	font-family: 'Russo One', sans-serif;
+}
+
+h3 {
+	font-family: 'Russo One', sans-serif;
 }
 
 body {
