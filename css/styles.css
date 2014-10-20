@@ -1,6 +1,6 @@
 /* Your Website Styles */
 h1 {
-	color: #C2F0B3;
+	color: #A3D86E;
 	font-family: 'Russo One', sans-serif;
 	width: 300px;
 	padding: 10px;
@@ -10,18 +10,24 @@ h1 {
 
 h2 {
 	font-family: 'Russo One', sans-serif;
+	color: #A3D86E;
 }
 
 h3 {
 	font-family: 'Russo One', sans-serif;
+	color: #A3D86E;
 }
 
 body {
-	background: url("../img/bg.png")
+	background: url("../img/bg.png");
 }
 
 p {
 	font-family: 'Play', sans-serif;
+}
+
+#main {
+	background-color: rgba(255, 255, 255, 0.1);
 }
 
 /* Show Grid */
