@@ -30,6 +30,17 @@ p {
 	background-color: rgba(255, 255, 255, 0.1);
 }
 
+#secondtitle {
+	width: 300px;
+	padding: 10px 0 10px 0;
+	border: 10px 0 10px 0;
+	margin: 18px 0 10px 0;
+}
+
+img	{
+	width: 75%;
+	padding: 10px;
+}
 
 /* Show Grid */
 .showgrid {
