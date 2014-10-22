@@ -18,6 +18,11 @@ h3 {
 	color: #A3D86E;
 }
 
+h4 {
+	font-family: 'Russo One', sans-serif;
+	color: #A3D86E;
+}
+
 body {
 	background: url("../img/bg.png");
 }
@@ -40,6 +45,16 @@ p {
 img	{
 	width: 75%;
 	padding: 10px;
+}
+
+li {
+	list-style: none;
+	float: left;
+	font-family: 'Play';
+}
+
+a.hover{
+	text-decoration: line-through;
 }
 
 /* Show Grid */
