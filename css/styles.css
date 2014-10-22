@@ -1,4 +1,9 @@
 /* Your Website Styles */
+
+/***********
+GENERAL
+************/
+
 h1 {
 	color: #A3D86E;
 	font-family: 'Russo One', sans-serif;
@@ -35,16 +40,34 @@ p {
 	background-color: rgba(255, 255, 255, 0.1);
 }
 
+/***********
+TITLE SECTION
+************/
+
 #secondtitle {
-	width: 300px;
-	padding: 10px 0 10px 0;
-	border: 10px 0 10px 0;
-	margin: 18px 0 10px 0;
+	font-size: 1.5em;
 }
 
 img	{
 	width: 75%;
 	padding: 10px;
+	margin: 10px;
+}
+
+/***********
+ABOUT SECTION
+************/
+
+/***********
+EXTRA LINKS
+************/
+
+#linktitle {
+	margin: 21px 0 5px 0;
+}
+
+ul {
+	margin-top: 0;
 }
 
 li {
@@ -53,7 +76,12 @@ li {
 	font-family: 'Play';
 }
 
-a.hover{
+a {
+	text-decoration: none;
+	margin: 0 5px 0 5px;
+}
+
+a:hover {
 	text-decoration: line-through;
 }
 
