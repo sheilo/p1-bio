@@ -48,6 +48,23 @@ p {
 /***********
 TITLE SECTION
 ************/
+.heading {
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+nav {
+	padding: 10px 0 10px 0;
+	border: 10px 0 10px 0;
+	margin: 10px 0 10px 0;
+}
+
+nav>li{
+	float: right;
+}
+
+/***********
+ABOUT SECTION
+************/
 
 #second {
 	padding: 0 10px 0 10px;
@@ -60,10 +77,6 @@ img	{
 	margin: 10px;
 	border-radius:30px;
 }
-
-/***********
-ABOUT SECTION
-************/
 
 /***********
 EXTRA LINKS
