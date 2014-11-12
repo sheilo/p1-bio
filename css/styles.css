@@ -49,8 +49,9 @@ p {
 TITLE SECTION
 ************/
 
-#secondtitle {
-	font-size: 1.5em;
+h1~h2{
+	padding: 0 10px 0 10px;
+	margin: 0 10px 0 10px;
 }
 
 img	{
