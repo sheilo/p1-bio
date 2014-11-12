@@ -49,9 +49,9 @@ p {
 TITLE SECTION
 ************/
 
-h1~h2{
+#second {
 	padding: 0 10px 0 10px;
-	margin: 0 10px 0 10px;
+	margin: 0 10px 0 10px;	
 }
 
 img	{
@@ -64,21 +64,10 @@ img	{
 /***********
 ABOUT SECTION
 ************/
-#about{
-	margin-top: 15px;
-}
 
 /***********
 EXTRA LINKS
 ************/
-
-#linktitle {
-	margin: 21px 0 5px 0;
-}
-
-ul {
-	margin-top: 0;
-}
 
 li {
 	list-style: none;
