@@ -8,9 +8,8 @@ h1 {
 	color: #A3D86E;
 	font-family: 'Russo One', sans-serif;
 	width: 370px;
-	padding: 10px;
-	border: 10px;
-	margin: 10px;
+	padding: 10px 0 0 10px;
+	margin: 10px 0 0 10px;
 	font-size: 2.5em;
 }
 
@@ -49,28 +48,26 @@ p {
 TITLE SECTION
 ************/
 .heading {
-	background: rgba(255, 255, 255, 0.3);
+	background-color: rgba(255,255,255,.1);
 }
 
 nav {
-	padding: 10px 0 10px 0;
-	border: 10px 0 10px 0;
-	margin: 10px 0 10px 0;
+	padding: 10px 0 0 0;
+	margin: 10px 0 0 0;
 }
 
 nav>li{
 	font-size: 1.5em;
 	float: right;
-	padding: 10px 0 10px 0;
-	border: 10px 0 10px 0;
-	margin: 10px 0 10px 0;
+	padding: 15px 20px 0 0;
+	margin: 15px 20px 0 0;
 }
 
 /***********
 ABOUT SECTION
 ************/
 
-#second {
+.second {
 	padding: 0 10px 0 10px;
 	margin: 0 10px 0 10px;	
 }
