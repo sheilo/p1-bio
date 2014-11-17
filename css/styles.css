@@ -16,12 +16,15 @@ h1 {
 h2 {
 	font-family: 'Russo One', sans-serif;
 	color: #A3D86E;
+	padding: 0 10px 0 10px;
+	margin: 0 10px 0 10px;	
 }
 
 h3 {
 	font-family: 'Russo One', sans-serif;
 	color: #A3D86E;
-	margin: 5px 0 5px 0;
+	padding: 0 10px 0 10px;
+	margin: 5px 5px 5px 5px;	
 }
 
 h4 {
@@ -66,12 +69,6 @@ nav>li{
 /***********
 ABOUT SECTION
 ************/
-
-.second {
-	padding: 0 10px 0 10px;
-	margin: 0 10px 0 10px;	
-}
-
 img	{
 	width: 75%;
 	padding: 10px;
