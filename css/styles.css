@@ -94,7 +94,7 @@ a:visited {
 	color: #A8C060;
 	text-decoration: none;
 	margin: 0 5px 0 5px;
-	transition:  .25s;
+	transition: color .25s;
 }
 
 a:hover, 
